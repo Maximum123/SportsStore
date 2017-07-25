@@ -19,5 +19,25 @@ namespace SportStore.Domain.Repositories
                 return context.Products;
             }
         }
+
+        public void Edit(Product product)
+        {
+            if (product.Id == 0)
+            {
+                context.Products.Add(product);
+            }
+            else
+            {
+                var entry = context.Products.Find(product.Id);
+                if (entry != null)
+                {
+                    entry.Name = product.Name;
+                    entry.Description = product.Description;
+                    entry.Price = product.Price;
+                    entry.Category = product.Category;
+                }
+            }
+            context.SaveChanges();
+        }
     }
 }

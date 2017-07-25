@@ -10,5 +10,7 @@ namespace SportStore.Domain.Abstracts
     public interface IProductRepository
     {
         IQueryable<Product> Products { get; }
+
+        void Edit(Product product);
     }
 }

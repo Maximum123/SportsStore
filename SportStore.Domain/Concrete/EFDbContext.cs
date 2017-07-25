@@ -13,7 +13,7 @@ namespace SportStore.Domain.Concrete
     {
         public EFDbContext():base("EFDBConnection")
         {
-
+           
         }
         public DbSet<Product> Products { get; set; }
 

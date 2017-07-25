@@ -1,4 +1,5 @@
 ﻿using SportStore.Domain.Abstracts;
+using SportStore.Domain.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -18,6 +19,7 @@ namespace SportStore.Controllers
 
         public ActionResult List()
         {
+            //_productRepository.Edit(new Product { Name = "Test", Category = "Waterpool", Description = "TestDEscr", Price = 125 });
             var products = _productRepository.Products;
             return View(products);
         }
