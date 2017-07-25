@@ -1,0 +1,12 @@
+c:\users\max\documents\visual studio 2015\Projects\SportStore\SportStore.Tests\bin\Debug\SportStore.Tests.dll
+c:\users\max\documents\visual studio 2015\Projects\SportStore\SportStore.Tests\bin\Debug\SportStore.Tests.pdb
+c:\users\max\documents\visual studio 2015\Projects\SportStore\SportStore.Tests\bin\Debug\Castle.Core.dll
+c:\users\max\documents\visual studio 2015\Projects\SportStore\SportStore.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\max\documents\visual studio 2015\Projects\SportStore\SportStore.Tests\bin\Debug\Moq.dll
+c:\users\max\documents\visual studio 2015\Projects\SportStore\SportStore.Tests\bin\Debug\Ninject.dll
+c:\users\max\documents\visual studio 2015\Projects\SportStore\SportStore.Tests\bin\Debug\Moq.pdb
+c:\users\max\documents\visual studio 2015\Projects\SportStore\SportStore.Tests\bin\Debug\Moq.xml
+c:\users\max\documents\visual studio 2015\Projects\SportStore\SportStore.Tests\bin\Debug\Ninject.xml
+c:\users\max\documents\visual studio 2015\Projects\SportStore\SportStore.Tests\obj\Debug\SportStore.Tests.csprojResolveAssemblyReference.cache
+c:\users\max\documents\visual studio 2015\Projects\SportStore\SportStore.Tests\obj\Debug\SportStore.Tests.dll
+c:\users\max\documents\visual studio 2015\Projects\SportStore\SportStore.Tests\obj\Debug\SportStore.Tests.pdb
