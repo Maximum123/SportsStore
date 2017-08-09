@@ -1,0 +1,99 @@
+c:\users\max\documents\visual studio 2015\Projects\SportStore\SportStore\bin\roslyn\csc.exe
+c:\users\max\documents\visual studio 2015\Projects\SportStore\SportStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\max\documents\visual studio 2015\Projects\SportStore\SportStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\max\documents\visual studio 2015\Projects\SportStore\SportStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\max\documents\visual studio 2015\Projects\SportStore\SportStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\max\documents\visual studio 2015\Projects\SportStore\SportStore\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\max\documents\visual studio 2015\Projects\SportStore\SportStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\max\documents\visual studio 2015\Projects\SportStore\SportStore\bin\roslyn\System.Collections.Immutable.dll
+c:\users\max\documents\visual studio 2015\Projects\SportStore\SportStore\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\max\documents\visual studio 2015\Projects\SportStore\SportStore\bin\roslyn\vbc.exe
+c:\users\max\documents\visual studio 2015\Projects\SportStore\SportStore\bin\roslyn\VBCSCompiler.exe
+c:\users\max\documents\visual studio 2015\Projects\SportStore\SportStore\bin\roslyn\VBCSCompiler.exe.config
+c:\users\max\documents\visual studio 2015\Projects\SportStore\SportStore\bin\SportStore.dll.config
+c:\users\max\documents\visual studio 2015\Projects\SportStore\SportStore\bin\SportStore.dll
+c:\users\max\documents\visual studio 2015\Projects\SportStore\SportStore\bin\SportStore.pdb
+c:\users\max\documents\visual studio 2015\Projects\SportStore\SportStore\bin\Antlr3.Runtime.dll
+c:\users\max\documents\visual studio 2015\Projects\SportStore\SportStore\bin\Castle.Core.dll
+c:\users\max\documents\visual studio 2015\Projects\SportStore\SportStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\max\documents\visual studio 2015\Projects\SportStore\SportStore\bin\Microsoft.Web.Infrastructure.dll
+c:\users\max\documents\visual studio 2015\Projects\SportStore\SportStore\bin\Moq.dll
+c:\users\max\documents\visual studio 2015\Projects\SportStore\SportStore\bin\Newtonsoft.Json.dll
+c:\users\max\documents\visual studio 2015\Projects\SportStore\SportStore\bin\Ninject.dll
+c:\users\max\documents\visual studio 2015\Projects\SportStore\SportStore\bin\SportStore.Domain.dll
+c:\users\max\documents\visual studio 2015\Projects\SportStore\SportStore\bin\System.Web.Helpers.dll
+c:\users\max\documents\visual studio 2015\Projects\SportStore\SportStore\bin\System.Web.Mvc.dll
+c:\users\max\documents\visual studio 2015\Projects\SportStore\SportStore\bin\System.Web.Optimization.dll
+c:\users\max\documents\visual studio 2015\Projects\SportStore\SportStore\bin\System.Web.Razor.dll
+c:\users\max\documents\visual studio 2015\Projects\SportStore\SportStore\bin\System.Web.WebPages.Deployment.dll
+c:\users\max\documents\visual studio 2015\Projects\SportStore\SportStore\bin\System.Web.WebPages.dll
+c:\users\max\documents\visual studio 2015\Projects\SportStore\SportStore\bin\System.Web.WebPages.Razor.dll
+c:\users\max\documents\visual studio 2015\Projects\SportStore\SportStore\bin\WebGrease.dll
+c:\users\max\documents\visual studio 2015\Projects\SportStore\SportStore\bin\EntityFramework.dll
+c:\users\max\documents\visual studio 2015\Projects\SportStore\SportStore\bin\SportStore.Domain.pdb
+c:\users\max\documents\visual studio 2015\Projects\SportStore\SportStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\max\documents\visual studio 2015\Projects\SportStore\SportStore\bin\Moq.pdb
+c:\users\max\documents\visual studio 2015\Projects\SportStore\SportStore\bin\Moq.xml
+c:\users\max\documents\visual studio 2015\Projects\SportStore\SportStore\bin\Ninject.xml
+c:\users\max\documents\visual studio 2015\Projects\SportStore\SportStore\bin\System.Web.Helpers.xml
+c:\users\max\documents\visual studio 2015\Projects\SportStore\SportStore\bin\System.Web.Mvc.xml
+c:\users\max\documents\visual studio 2015\Projects\SportStore\SportStore\bin\System.Web.Optimization.xml
+c:\users\max\documents\visual studio 2015\Projects\SportStore\SportStore\bin\System.Web.Razor.xml
+c:\users\max\documents\visual studio 2015\Projects\SportStore\SportStore\bin\System.Web.WebPages.xml
+c:\users\max\documents\visual studio 2015\Projects\SportStore\SportStore\bin\System.Web.WebPages.Deployment.xml
+c:\users\max\documents\visual studio 2015\Projects\SportStore\SportStore\bin\System.Web.WebPages.Razor.xml
+c:\users\max\documents\visual studio 2015\Projects\SportStore\SportStore\bin\Antlr3.Runtime.pdb
+c:\users\max\documents\visual studio 2015\Projects\SportStore\SportStore\bin\Newtonsoft.Json.xml
+c:\users\max\documents\visual studio 2015\Projects\SportStore\SportStore\bin\EntityFramework.xml
+c:\users\max\documents\visual studio 2015\Projects\SportStore\SportStore\obj\Debug\SportStore.Web.csprojResolveAssemblyReference.cache
+c:\users\max\documents\visual studio 2015\Projects\SportStore\SportStore\obj\Debug\SportStore.dll
+c:\users\max\documents\visual studio 2015\Projects\SportStore\SportStore\obj\Debug\SportStore.pdb
+E:\Projects\SportsStore\SportStore\bin\roslyn\csc.exe
+E:\Projects\SportsStore\SportStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Projects\SportsStore\SportStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Projects\SportsStore\SportStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Projects\SportsStore\SportStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Projects\SportsStore\SportStore\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Projects\SportsStore\SportStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Projects\SportsStore\SportStore\bin\roslyn\System.Collections.Immutable.dll
+E:\Projects\SportsStore\SportStore\bin\roslyn\System.Reflection.Metadata.dll
+E:\Projects\SportsStore\SportStore\bin\roslyn\vbc.exe
+E:\Projects\SportsStore\SportStore\bin\roslyn\VBCSCompiler.exe
+E:\Projects\SportsStore\SportStore\bin\roslyn\VBCSCompiler.exe.config
+E:\Projects\SportsStore\SportStore\bin\SportStore.dll.config
+E:\Projects\SportsStore\SportStore\bin\SportStore.dll
+E:\Projects\SportsStore\SportStore\bin\SportStore.pdb
+E:\Projects\SportsStore\SportStore\bin\Antlr3.Runtime.dll
+E:\Projects\SportsStore\SportStore\bin\Castle.Core.dll
+E:\Projects\SportsStore\SportStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Projects\SportsStore\SportStore\bin\Microsoft.Web.Infrastructure.dll
+E:\Projects\SportsStore\SportStore\bin\Moq.dll
+E:\Projects\SportsStore\SportStore\bin\Newtonsoft.Json.dll
+E:\Projects\SportsStore\SportStore\bin\Ninject.dll
+E:\Projects\SportsStore\SportStore\bin\SportStore.Domain.dll
+E:\Projects\SportsStore\SportStore\bin\System.Web.Helpers.dll
+E:\Projects\SportsStore\SportStore\bin\System.Web.Mvc.dll
+E:\Projects\SportsStore\SportStore\bin\System.Web.Optimization.dll
+E:\Projects\SportsStore\SportStore\bin\System.Web.Razor.dll
+E:\Projects\SportsStore\SportStore\bin\System.Web.WebPages.Deployment.dll
+E:\Projects\SportsStore\SportStore\bin\System.Web.WebPages.dll
+E:\Projects\SportsStore\SportStore\bin\System.Web.WebPages.Razor.dll
+E:\Projects\SportsStore\SportStore\bin\WebGrease.dll
+E:\Projects\SportsStore\SportStore\bin\EntityFramework.dll
+E:\Projects\SportsStore\SportStore\bin\SportStore.Domain.pdb
+E:\Projects\SportsStore\SportStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Projects\SportsStore\SportStore\bin\Moq.pdb
+E:\Projects\SportsStore\SportStore\bin\Moq.xml
+E:\Projects\SportsStore\SportStore\bin\Ninject.xml
+E:\Projects\SportsStore\SportStore\bin\System.Web.Helpers.xml
+E:\Projects\SportsStore\SportStore\bin\System.Web.Mvc.xml
+E:\Projects\SportsStore\SportStore\bin\System.Web.Optimization.xml
+E:\Projects\SportsStore\SportStore\bin\System.Web.Razor.xml
+E:\Projects\SportsStore\SportStore\bin\System.Web.WebPages.xml
+E:\Projects\SportsStore\SportStore\bin\System.Web.WebPages.Deployment.xml
+E:\Projects\SportsStore\SportStore\bin\System.Web.WebPages.Razor.xml
+E:\Projects\SportsStore\SportStore\bin\Antlr3.Runtime.pdb
+E:\Projects\SportsStore\SportStore\bin\Newtonsoft.Json.xml
+E:\Projects\SportsStore\SportStore\bin\EntityFramework.xml
+E:\Projects\SportsStore\SportStore\obj\Debug\SportStore.dll
+E:\Projects\SportsStore\SportStore\obj\Debug\SportStore.pdb

@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SportStore.Web", "SportStore\SportStore.Web.csproj", "{C447203E-B8BF-46BC-8DFA-8A6BED6101FA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SportStore.Web", "SportStore.Web\SportStore.Web.csproj", "{C447203E-B8BF-46BC-8DFA-8A6BED6101FA}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SportStore.Domain", "SportStore.Domain\SportStore.Domain.csproj", "{5BD88443-E337-45B8-8BC0-3311BA88230E}"
 EndProject
